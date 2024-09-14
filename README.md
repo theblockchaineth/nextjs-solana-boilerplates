@@ -8,6 +8,12 @@ A suite of repositories for NextJS developers wanting to use the Solana ecosyste
 
 
 # Demo Pages
-Simple Connect (simple-connect/client) - A basic Solana wallet integration with centralized user data refreshed and served through a Provider Pattern (Address, Balance, etc)
+## Simple Connect (simple-connect/client) 
+A basic Solana wallet integration with centralized user data refreshed and served through a Provider Pattern (Address, Balance, etc)
 
 https://simple-solana.theblockchain.work/
+
+## NextAuth Connect
+A session integration with wallet signing, much like Sign-In With Ethereum, that leverages a JWT based session via NextAuth
+
+https://nextauth-solana.theblockchain.work/
